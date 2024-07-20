@@ -4,7 +4,9 @@ Designed an automated trading system for stock market analysis and trading using
 
 ROLE AND CONTRIBUTION:
 Team Member; Designed and created a dashboard for real-time monitoring and analysis of trading performance.
-Technologies and Tools: Pine Script, MetaTrader 4, TradingView, Python
+
+TECHNOLOGIES AND TOOLS:
+Pine Script, MetaTrader 4, TradingView, Python
 
 ACHIEVEMENTS OR RESULTS:
 •	Contributed to a project that reduced manual trading efforts by 60%.
