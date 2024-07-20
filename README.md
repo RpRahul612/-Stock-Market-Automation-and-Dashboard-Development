@@ -1,1 +1,1 @@
-# -Stock-Market-Automation-and-Dashboard-Development
+# Stock Market Automation and Dashboard Development
