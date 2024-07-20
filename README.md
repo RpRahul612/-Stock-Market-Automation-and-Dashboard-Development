@@ -9,9 +9,9 @@ TECHNOLOGIES AND TOOLS:
 Pine Script, MetaTrader 4, TradingView, Python
 
 ACHIEVEMENTS OR RESULTS:
-•	Contributed to a project that reduced manual trading efforts by 60%.
-•	Developed a user-friendly dashboard that provided real-time insights and enhanced decision-making for stakeholders.
-•	Improved overall team understanding of data visualization.
+- Contributed to a project that reduced manual trading efforts by 60%.
+- Developed a user-friendly dashboard that provided real-time insights and enhanced decision-making for stakeholders.
+- Improved overall team understanding of data visualization.
 
 TEAMWORK AND COLLABORATION: 
 Collaborated closely with team members to develop a user-friendly dashboard. Conducted regular team meetings to ensure project milestones were met and facilitated knowledge sharing sessions.
